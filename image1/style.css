@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#heading{
+display: inline-block;
+text-align: left;
+margin-top: 170px;
+margin-left: 50px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#para{
+display: inline-block;
+margin-top: 25px;
+margin-left: 50px;
+text-align: left;
+}
+
+button{
+display: inline-block;
+margin-top: 25px;
+border-radius: 20px;
+background-color:white;
+align-items: center;
+width: 200px;
+height: 40px;
+border: none;
+}
